@@ -4,8 +4,8 @@
 
 const int strmax = 3; // max number of string
 int strquan = 1; // number of string
-horizontal = 120;
-vetrical = 30;
+int horizontal = 120;
+int vetrical = 30;
 
 int write2cen(std::string text) // writing text in center
 	{
